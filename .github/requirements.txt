@@ -2,3 +2,15 @@ fastapi
 uvicorn
 pandas
 numpy
+Scikit-learn
+TensorFlow
+PyTorch
+SciPy
+Beautiful Soup
+Selenium
+Scrapy
+PyAutoGUI
+OS
+Rich
+Tqdm
+Plotly
