@@ -4,7 +4,6 @@ pandas
 numpy
 Scikit-learn
 TensorFlow
-PyTorch
 SciPy
 Selenium
 Scrapy
