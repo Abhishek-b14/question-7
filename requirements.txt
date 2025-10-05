@@ -9,6 +9,5 @@ SciPy
 Selenium
 Scrapy
 PyAutoGUI
-OS
 Rich
 Tqdm
