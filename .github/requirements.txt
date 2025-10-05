@@ -13,4 +13,3 @@ PyAutoGUI
 OS
 Rich
 Tqdm
-Plotly
